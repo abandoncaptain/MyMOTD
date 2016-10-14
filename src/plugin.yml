@@ -1,0 +1,7 @@
+name: MyMOTD
+version: 1.0
+main: me.abandoncaptian.MyMOTD.Main
+description: MyMOTD made by abandoncaptian
+commands:
+  motd-reload:
+  motd-set:
